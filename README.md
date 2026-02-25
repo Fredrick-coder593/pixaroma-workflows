@@ -1,6 +1,6 @@
 # pixaroma-workflows
 
-Comfy UI workflows from Pixaroma YouTube channel.
+ComfyUI workflows from Pixaroma YouTube channel.
 
 ## Watch the episodes (Comfy UI Free Course)
 [![Click to watch](https://img.shields.io/badge/CLICK%20TO%20WATCH-YouTube%20Playlist-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-pohOSaL8P-FhSw1Iwf0pBGzXdtv4DZC)
